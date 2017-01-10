@@ -1,0 +1,18 @@
+.calc{
+  background-color: #000000;
+  padding: 50px;
+  
+}
+
+.display{
+  background-color: #E8D89D;
+  color: #000000;
+  padding: 40px;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+.btn{
+  margin: 20px;
+  font-size: 25px;
+  
+}
